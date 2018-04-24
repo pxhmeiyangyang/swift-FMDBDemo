@@ -1,0 +1,6 @@
+framework module Pods_FMDBTestTests {
+  umbrella header "Pods-FMDBTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
